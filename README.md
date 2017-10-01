@@ -1,0 +1,2 @@
+# Notes
+Centralized note storage.
