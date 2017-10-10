@@ -1,6 +1,10 @@
 # Interesting Tools
 Nothing special here, just a collection of tools I find interesting.
 
+#### Process Introspection
+* *peekfd:* Peek at file descriptors of running processes.
+
+
 #### NETWORK
 * *nethogs:* Lists processes by their network traffic.
 
