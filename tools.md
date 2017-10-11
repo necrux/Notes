@@ -4,6 +4,7 @@ Nothing special here, just a collection of tools I find interesting.
 #### Process Introspection
 * *peekfd:* Peek at file descriptors of running processes.
 * *gdb:* See what is going on "inside" another program while it executes -- or what another program was doing at the moment it crashed.
+* *gcore:* Generate a core dump of a running program with process ID pid.
 
 
 #### NETWORK
